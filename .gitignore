@@ -1,0 +1,29 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+/vendor/
+/.bundle/
+gemfiles/
+*.gem
+# (Optionally ignore Gemfile.lock if NOT deploying via GitHub Pages;
+# if you use GitHub Pages or want reproducible builds, keep Gemfile.lock tracked.)
+
+# Node (if you ever add JS tooling)
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
+.cursor/

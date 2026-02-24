@@ -1,0 +1,9 @@
+<!-- <a href="/" {% if page.lang == 'en' %}class="active"{% endif %}> 🇺🇸 EN</a>
+|
+<a href="{{ page.lang_url }}" {% if page.lang == 'tr' %}class="active"{% endif %}>🇹🇷 TR</a> -->
+
+<div class="lang-toggle">
+    <a href="/" {% if page.lang == 'en' %}class="active"{% endif %}> 🇺🇸 EN</a>
+    |
+    <a href="{{ page.lang_url }}" {% if page.lang == 'tr' %}class="active"{% endif %}> 🇹🇷 TR</a>
+  </div>

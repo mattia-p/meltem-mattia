@@ -1,0 +1,18 @@
+title: "Meltem and Mattia"
+description: "October 2026"
+theme: alembic-jekyll-theme
+url: "https://yourusername.github.io"
+baseurl: ""
+
+logo: "/assets/images/birds_cutout.png" # Site logo, also used in jekyll-seo-tag
+
+author:
+  name: Meltem & Mattia
+
+navigation_header:
+  - title: Home
+    url: /
+  - title: Schedule
+    url: /schedule/
+  - title: Info
+    url: /info/
