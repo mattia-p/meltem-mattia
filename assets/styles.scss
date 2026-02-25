@@ -1,0 +1,48 @@
+---
+---
+
+@import "alembic";
+
+body, .header, .main, .footer, .page {
+  background-color: #F7F0E6 !important;
+}
+// f7e6ca beige
+// e5cfc1
+// F5ECD7 warm parchment
+// F7F0E6 soft linen
+// FAF6EF pale cream
+// FDF8F2 almost white with a warm tint
+// FEFAF4 very light ivory
+// FFFFF0 ivory, barely off-white
+
+
+.header {
+  border-bottom: 1px solid #f7e6ca;
+}
+
+a {
+  color: #8b6f47;
+}
+
+a:hover {
+  color: #5c4a2a;
+}
+
+.header .nav a {
+  color: #161514;
+}
+
+.header .nav a:hover {
+  color: #0c0b0a;
+}
+
+.lang-toggle {
+  text-align: right;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.active {
+  font-weight: bold;
+  text-decoration: none;
+}
