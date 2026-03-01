@@ -1,6 +1,6 @@
 ---
 ---
-
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap");
 @import "alembic";
 
 body, .header, .main, .footer, .page {
@@ -15,13 +15,32 @@ body, .header, .main, .footer, .page {
 // FEFAF4 very light ivory
 // FFFFF0 ivory, barely off-white
 
+.lang-tr .en { display: none; }
+.lang-en .tr { display: none; }
+
+.lang-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: #8b6f47;
+  padding: 0 0.2rem;
+}
+
+.lang-btn:hover {
+  color: #5c4a2a;
+  font-weight: bold;
+}
 
 .header {
-  border-bottom: 1px solid #f7e6ca;
+  border-bottom: 1px solid #F7F0E6;
 }
 
 a {
   color: #8b6f47;
+  background: none !important;
+  box-shadow: none !important;
+  text-decoration-color: rgba(139, 111, 71, 0.4);
 }
 
 a:hover {
@@ -45,4 +64,36 @@ a:hover {
 .active {
   font-weight: bold;
   text-decoration: none;
+}
+
+body {
+  font-family: "Cormorant Garamond", "Times New Roman", serif;
+}
+
+.page-content a,
+.post a,
+main a {
+  color: #8b6f47;
+  text-decoration: underline;
+  text-decoration-color: rgba(139, 111, 71, 0.4);
+  background: none;
+  box-shadow: none;
+}
+
+.page-content a:hover,
+.post a:hover,
+main a:hover {
+  color: #5c4a2a;
+  text-decoration-color: #5c4a2a;
+  background: none;
+}
+
+.page-content a:hover,
+.post a:hover,
+main a:hover,
+article a:hover {
+  color: #5c4a2a !important;
+  background: none !important;
+  box-shadow: none !important;
+  text-decoration-color: #5c4a2a !important;
 }

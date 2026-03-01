@@ -1,4 +1,4 @@
-title: "Meltem and Mattia"
+title: "Meltem & Mattia"
 description: "October 2026"
 theme: alembic-jekyll-theme
 url: "https://mattia-p.github.io"
@@ -11,8 +11,14 @@ author:
 
 navigation_header:
   - title: Home
+    title_tr: Ana Sayfa
     url: /
-  - title: Schedule
-    url: /schedule/
-  - title: Info
-    url: /info/
+  - title: Access
+    title_tr: Nasıl Gidilir?
+    url: /access/
+  - title: FAQ
+    title_tr: SSS
+    url: /faq/
+  - title: Explore
+    title_tr: Keşfet
+    url: /explore/

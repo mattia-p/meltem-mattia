@@ -2,8 +2,23 @@
 |
 <a href="{{ page.lang_url }}" {% if page.lang == 'tr' %}class="active"{% endif %}>🇹🇷 TR</a> -->
 
-<div class="lang-toggle">
+<!-- <div class="lang-toggle">
     <a href="/" {% if page.lang == 'en' %}class="active"{% endif %}> 🇺🇸 EN</a>
     |
     <a href="{{ page.lang_url }}" {% if page.lang == 'tr' %}class="active"{% endif %}> 🇹🇷 TR</a>
-  </div>
+</div> -->
+
+
+<button onclick="setLang('en')">EN</button>
+<button onclick="setLang('tr')">TR</button>
+
+<script>
+function setLang(lang) {
+document.body.className = 'lang-' + lang;
+localStorage.setItem('lang', lang);
+}
+
+// On page load, restore saved language
+var saved = localStorage.getItem('lang') || 'en';
+document.body.className = 'lang-' + saved;
+</script>

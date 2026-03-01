@@ -1,0 +1,74 @@
+{% if site.navigation_header %}
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    {% for item in site.navigation_header %}
+      {% if item.url contains '://' %}
+        {% assign url = item.url %}
+      {% else %}
+        {% assign url = item.url | relative_url %}
+      {% endif %}
+      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}">
+          <span class="en">{{ item.title }}</span>
+          <span class="tr">{{ item.title_tr | default: item.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+    <li class="item item--nav">
+      <button onclick="setLang('en')" class="lang-btn" id="btn-en">EN</button>
+      |
+      <button onclick="setLang('tr')" class="lang-btn" id="btn-tr">TR</button>
+    </li>
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    {% include icon.html id="nav" title="Menu" %}
+  </button>
+</nav>
+{% else %}
+  {% include nav-default.html %}
+{% endif %}
+
+<script type="text/javascript">
+
+  function setLang(lang) {
+    document.body.className = 'lang-' + lang;
+    localStorage.setItem('lang', lang);
+  }
+
+  // Restore language on page load
+  (function() {
+    var saved = localStorage.getItem('lang') || 'en';
+    document.body.className = 'lang-' + saved;
+  })();
+
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+
