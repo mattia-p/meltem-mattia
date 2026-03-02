@@ -3,6 +3,7 @@ layout: page
 # title: Home
 lang: en
 lang_url: /tr/
+permalink: /faq/
 feature_image: /assets/images/banner.jpg
 ---
 
