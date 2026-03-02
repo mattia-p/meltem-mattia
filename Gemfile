@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "jekyll"
-gem "alembic-jekyll-theme"
+
+gem "github-pages", group: :jekyll_plugins

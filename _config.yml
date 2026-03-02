@@ -1,8 +1,10 @@
 title: "Meltem & Mattia"
 description: "October 2026"
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 url: "https://meltem-mattia.com"
 baseurl: ""
+plugins:
+  - jekyll-remote-theme
 
 logo: "/assets/images/birds_cutout.png" # Site logo, also used in jekyll-seo-tag
 navigation_footer: []
