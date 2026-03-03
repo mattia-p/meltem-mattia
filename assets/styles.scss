@@ -142,3 +142,20 @@ main a:hover {
   .lang-en .tr { display: none; }
 }
 
+#mobile-menu-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #8b6f47; /* matches your brown theme */
+  padding: 0.25rem;
+}
+
+#mobile-menu-button:hover {
+  color: #5c4a2a; /* darker brown on hover */
+}
+
+#mobile-menu-button svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: block;
+}
