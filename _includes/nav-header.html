@@ -1,6 +1,19 @@
 {% if site.navigation_header %}
 <nav class="nav nav--header">
-  <ul class="list list--nav">
+  <!-- Hamburger first for mobile -->
+  <button class="button button--nav" id="mobile-menu-button" aria-label="Menu toggle">
+    {% include icon.html id="nav" title="Menu" %}
+  </button>
+
+  <!-- Language Toggle -->
+  <div class="language-toggle">
+    <button onclick="setLang('en')" class="lang-btn">EN</button>
+    <span class="sep">|</span>
+    <button onclick="setLang('tr')" class="lang-btn">TR</button>
+  </div>
+
+  <!-- Navigation List -->
+  <ul class="list list--nav" id="mobile-nav-list">
     {% for item in site.navigation_header %}
       {% assign url = item.url contains '://' ? item.url : item.url | relative_url %}
       <li class="item item--nav{% if item.url == page.url %} item--current{% endif %}">
@@ -11,39 +24,29 @@
       </li>
     {% endfor %}
   </ul>
-
-  {% include lang-toggle.html %}
-
-  <button class="button button--nav" aria-label="Menu toggle">
-    {% include icon.html id="nav" title="Menu" %}
-  </button>
 </nav>
-{% else %}
-  {% include nav-default.html %}
-{% endif %}
-
-
 
 <script>
+  // Language toggle
+  function setLang(lang) {
+    document.body.className = 'lang-' + lang;
+    localStorage.setItem('lang', lang);
+  }
+  // Restore language on load
+  (function() {
+    var saved = localStorage.getItem('lang') || 'en';
+    document.body.className = 'lang-' + saved;
+  })();
+
+  // Mobile menu toggle
   document.addEventListener('DOMContentLoaded', function() {
-    const navList = document.querySelector('.header .list--nav');
-    const button  = document.querySelector('.header .button--nav');
-
-    button.onclick = () => {
-      navList.classList.toggle('active');
-    };
-
-    // Language toggle
-    function setLang(lang) {
-      document.body.className = 'lang-' + lang;
-      localStorage.setItem('lang', lang);
+    const menuBtn = document.getElementById('mobile-menu-button');
+    const navList = document.getElementById('mobile-nav-list');
+    if (menuBtn && navList) {
+      menuBtn.addEventListener('click', function() {
+        navList.classList.toggle('active');
+      });
     }
-
-    // Restore language on load
-    (function() {
-      var saved = localStorage.getItem('lang') || 'en';
-      document.body.className = 'lang-' + saved;
-    })();
   });
 </script>
-
+{% endif %}

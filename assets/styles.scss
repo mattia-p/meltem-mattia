@@ -71,29 +71,6 @@ main a:hover {
   box-shadow: none;
 }
 
-// Nav layout
-.header .container {
-  display: flex;
-  align-items: center;
-}
-.nav--header {
-  display: flex;
-  align-items: center;
-  width: 100%;
-}
-.nav--header .list--nav {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.nav--header .list--nav > li {
-  margin: 0;
-  padding: 0;
-}
-
 // Language toggle
 .language-toggle {
   margin-left: auto;
@@ -103,38 +80,65 @@ main a:hover {
   font-size: 0.85rem;
 }
 
+/* Desktop nav layout */
+@media (min-width: 640px) {
+  .header .container {
+    display: flex;
+    align-items: center;
+  }
+  .nav--header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  .nav--header .list--nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .language-toggle {
+    margin-left: auto;
+  }
+  #mobile-menu-button {
+    display: none; /* Hide hamburger on desktop */
+  }
+}
+
 /* Mobile layout */
 @media (max-width: 639px) {
   .nav--header {
-    position: relative; /* Add this */
+    display: flex;
     flex-wrap: wrap;
+    position: relative;
     width: 100%;
   }
-  .list--nav {
+  #mobile-nav-list {
     display: none;
     flex-direction: column;
     width: 100%;
     gap: 0.5rem;
-    position: absolute;
-    top: 100%; /* Position below the header */
-    left: 0;
+    position: static; /* Change from absolute to static */
     background: #F7F0E6;
     padding: 1rem;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: none;
     z-index: 100;
-    margin: 0;
+    margin-top: 2rem; /* Add space below the header */
   }
-  .list--nav.active {
+  #mobile-nav-list.active {
     display: flex;
   }
   .language-toggle {
     order: 2;
     margin-left: auto;
   }
-  .button--nav {
-    order: 3;
+  #mobile-menu-button {
+    order: 1;
   }
-  .header .container {
-    position: relative; /* Add this */
-  }
+  /* Hide the other language */
+  .lang-tr .en { display: none; }
+  .lang-en .tr { display: none; }
 }
+
