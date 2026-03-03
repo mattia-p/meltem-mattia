@@ -3,21 +3,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap");
 @import "alembic";
 
+// Background and font
 body, .header, .main, .footer, .page {
   background-color: #F7F0E6 !important;
+  font-family: "Cormorant Garamond", "Times New Roman", serif;
 }
-// f7e6ca beige
-// e5cfc1
-// F5ECD7 warm parchment
-// F7F0E6 soft linen
-// FAF6EF pale cream
-// FDF8F2 almost white with a warm tint
-// FEFAF4 very light ivory
-// FFFFF0 ivory, barely off-white
 
+// Language toggle visibility
 .lang-tr .en { display: none; }
 .lang-en .tr { display: none; }
 
+// Language toggle button style
 .lang-btn {
   background: none;
   border: none;
@@ -25,51 +21,38 @@ body, .header, .main, .footer, .page {
   font-size: 0.9rem;
   color: #8b6f47;
   padding: 0 0.2rem;
+  line-height: 1;
 }
-
 .lang-btn:hover {
   color: #5c4a2a;
   font-weight: bold;
 }
 
+// Header border
 .header {
   border-bottom: 1px solid #F7F0E6;
 }
 
+// Link styles
 a {
   color: #8b6f47;
   background: none !important;
   box-shadow: none !important;
   text-decoration-color: rgba(139, 111, 71, 0.4);
 }
-
 a:hover {
   color: #5c4a2a;
 }
 
+// Header nav link styles
 .header .nav a {
   color: #161514;
 }
-
 .header .nav a:hover {
   color: #0c0b0a;
 }
 
-.lang-toggle {
-  text-align: right;
-  padding: 0.5rem 1rem;
-  font-size: 0.9rem;
-}
-
-.active {
-  font-weight: bold;
-  text-decoration: none;
-}
-
-body {
-  font-family: "Cormorant Garamond", "Times New Roman", serif;
-}
-
+// Main content link styles
 .page-content a,
 .post a,
 main a {
@@ -79,65 +62,113 @@ main a {
   background: none;
   box-shadow: none;
 }
-
 .page-content a:hover,
 .post a:hover,
 main a:hover {
   color: #5c4a2a;
   text-decoration-color: #5c4a2a;
   background: none;
+  box-shadow: none;
 }
 
-.page-content a:hover,
-.post a:hover,
-main a:hover,
-article a:hover {
-  color: #5c4a2a !important;
-  background: none !important;
-  box-shadow: none !important;
-  text-decoration-color: #5c4a2a !important;
-}
-
-/* Make header container flexible */
+// Nav layout: flex, vertical alignment
 .header .container {
   display: flex;
   align-items: center;
 }
-
-/* Let navigation take available space */
 .nav--header {
-  margin-left: 2rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+.nav--header .list--nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+.nav--header .list--nav > li {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.nav--header .list--nav .item--nav a {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  line-height: 1;
 }
 
-/* Push language toggle fully to the right */
+// Language toggle alignment
 .language-toggle {
-  margin-left: auto; /* pushes it to the far right */
+  margin-left: auto;
   display: flex;
   align-items: center;
   gap: 0.4rem;
   font-size: 0.85rem;
 }
 
-/* Make the nav header a flex container */
-.nav--header {
+/* Language toggle alignment */
+.language-toggle {
+  display: flex;
+  align-items: center; /* vertical alignment */
+  justify-content: center; /* horizontal alignment */
+  height: 100%; /* take full height of parent */
+  margin-left: auto; /* push to the right */
+  gap: 0.4rem;
+  padding: 0 0.5rem; /* optional: add some horizontal padding */
+}
+
+/* Language toggle buttons */
+.lang-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: #8b6f47;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
-/* Keep the main nav list on the left */
+/* Separator style */
+.language-toggle .sep {
+  color: #8b6f47;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+}
+
+/* Ensure the nav list and items are vertically centered */
 .nav--header .list--nav {
   display: flex;
-  gap: 1rem; /* spacing between items */
-  order: 1; /* optional, ensures it stays on left */
+  align-items: center; /* vertical alignment */
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-/* Put the language selector on the right */
-.nav-language {
-  order: 2; /* ensures it’s on the right */
-  margin-left: auto; /* pushes it to the far right */
-}
-
-.list--nav {
+.nav--header .list--nav > li {
   display: flex;
-  gap: 1rem;
+  align-items: center; /* vertical alignment */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.nav--header .list--nav .item--nav a {
+  display: flex;
+  align-items: center; /* vertical alignment */
+  height: 100%;
+  line-height: 1;
 }
