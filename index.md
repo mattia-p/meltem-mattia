@@ -3,7 +3,7 @@ layout: page
 # title: Home
 lang: en
 lang_url: /tr/
-feature_image: /assets/images/banner.jpg
+feature_image: /assets/images/banner_crop.jpg
 feature_text: "# Meltem & Mattia"
 ---
 

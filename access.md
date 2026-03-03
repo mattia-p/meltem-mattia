@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: /assets/images/banner.jpg
+feature_image: /assets/images/banner_crop.jpg
 permalink: /access/
 ---
 

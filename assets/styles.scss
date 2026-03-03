@@ -97,3 +97,47 @@ article a:hover {
   box-shadow: none !important;
   text-decoration-color: #5c4a2a !important;
 }
+
+/* Make header container flexible */
+.header .container {
+  display: flex;
+  align-items: center;
+}
+
+/* Let navigation take available space */
+.nav--header {
+  margin-left: 2rem;
+}
+
+/* Push language toggle fully to the right */
+.language-toggle {
+  margin-left: auto; /* pushes it to the far right */
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+}
+
+/* Make the nav header a flex container */
+.nav--header {
+  display: flex;
+  align-items: center;
+}
+
+/* Keep the main nav list on the left */
+.nav--header .list--nav {
+  display: flex;
+  gap: 1rem; /* spacing between items */
+  order: 1; /* optional, ensures it stays on left */
+}
+
+/* Put the language selector on the right */
+.nav-language {
+  order: 2; /* ensures it’s on the right */
+  margin-left: auto; /* pushes it to the far right */
+}
+
+.list--nav {
+  display: flex;
+  gap: 1rem;
+}
