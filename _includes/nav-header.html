@@ -10,10 +10,9 @@
         </a>
       </li>
     {% endfor %}
-    <li class="item--nav">
-      {% include lang-toggle.html %}
-    </li>
   </ul>
+
+  {% include lang-toggle.html %}
 
   <button class="button button--nav" aria-label="Menu toggle">
     {% include icon.html id="nav" title="Menu" %}
@@ -23,36 +22,28 @@
   {% include nav-default.html %}
 {% endif %}
 
-<script type="text/javascript">
 
-  // Get list and button
-  const navList = document.querySelector('.header .list--nav')
-  const button  = document.querySelector('.header .button--nav')
 
-  // Hide nav and apply toggle
-  const collapseNav = () => {
-    if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-    } else {
-      navList.removeAttribute('style')
-    }
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const navList = document.querySelector('.header .list--nav');
+    const button  = document.querySelector('.header .button--nav');
 
     button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
-      } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-      }
+      navList.classList.toggle('active');
+    };
+
+    // Language toggle
+    function setLang(lang) {
+      document.body.className = 'lang-' + lang;
+      localStorage.setItem('lang', lang);
     }
-  }
 
-  collapseNav()
-
-  // Check on resize if to collapse nav
-  window.addEventListener('resize', () => {
-    collapseNav()
-  })
+    // Restore language on load
+    (function() {
+      var saved = localStorage.getItem('lang') || 'en';
+      document.body.className = 'lang-' + saved;
+    })();
+  });
 </script>
-
 

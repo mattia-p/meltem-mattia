@@ -71,7 +71,7 @@ main a:hover {
   box-shadow: none;
 }
 
-// Nav layout: flex, vertical alignment
+// Nav layout
 .header .container {
   display: flex;
   align-items: center;
@@ -79,7 +79,6 @@ main a:hover {
 .nav--header {
   display: flex;
   align-items: center;
-  flex-wrap: nowrap;
   width: 100%;
 }
 .nav--header .list--nav {
@@ -88,22 +87,14 @@ main a:hover {
   gap: 1rem;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 .nav--header .list--nav > li {
-  display: flex;
-  align-items: center;
-  height: 100%;
   margin: 0;
   padding: 0;
 }
-.nav--header .list--nav .item--nav a {
-  display: flex;
-  align-items: center;
-  height: 100%;
-  line-height: 1;
-}
 
-// Language toggle alignment
+// Language toggle
 .language-toggle {
   margin-left: auto;
   display: flex;
@@ -112,63 +103,38 @@ main a:hover {
   font-size: 0.85rem;
 }
 
-/* Language toggle alignment */
-.language-toggle {
-  display: flex;
-  align-items: center; /* vertical alignment */
-  justify-content: center; /* horizontal alignment */
-  height: 100%; /* take full height of parent */
-  margin-left: auto; /* push to the right */
-  gap: 0.4rem;
-  padding: 0 0.5rem; /* optional: add some horizontal padding */
-}
-
-/* Language toggle buttons */
-.lang-btn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 0.9rem;
-  color: #8b6f47;
-  padding: 0;
-  margin: 0;
-  line-height: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Separator style */
-.language-toggle .sep {
-  color: #8b6f47;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-  margin: 0;
-  line-height: 1;
-}
-
-/* Ensure the nav list and items are vertically centered */
-.nav--header .list--nav {
-  display: flex;
-  align-items: center; /* vertical alignment */
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.nav--header .list--nav > li {
-  display: flex;
-  align-items: center; /* vertical alignment */
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.nav--header .list--nav .item--nav a {
-  display: flex;
-  align-items: center; /* vertical alignment */
-  height: 100%;
-  line-height: 1;
+/* Mobile layout */
+@media (max-width: 639px) {
+  .nav--header {
+    position: relative; /* Add this */
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .list--nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.5rem;
+    position: absolute;
+    top: 100%; /* Position below the header */
+    left: 0;
+    background: #F7F0E6;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 100;
+    margin: 0;
+  }
+  .list--nav.active {
+    display: flex;
+  }
+  .language-toggle {
+    order: 2;
+    margin-left: auto;
+  }
+  .button--nav {
+    order: 3;
+  }
+  .header .container {
+    position: relative; /* Add this */
+  }
 }
