@@ -86,3 +86,85 @@ Fransa’nın en eski şehirlerinden biri. Vieux-Port ve Notre-Dame de la Garde 
 İspanya sınırına yakın bir şehir. Katalan etkisi hissedilir. Eski şehir bölgesi ve Mallorca Kralları Sarayı ziyaret edilebilir.
 
 </div>
+
+<div class="fr" markdown="1">
+
+#### Explorer la Région
+
+Le lieu est situé au cœur du Languedoc — ancien, paisible et plein de découvertes. Que vous ayez une journée ou une semaine, voici quelques endroits à explorer avant ou après la fête.
+
+**Pic Saint-Loup** - 20 minutes du lieu<br>
+Juste à votre porte. Ce pic calcaire emblématique domine la garrigue, avec des sentiers de randonnée, des chapelles cachées et quelques-uns des meilleurs domaines viticoles de la région.
+
+**Montpellier** - 35 minutes du lieu<br>
+Une ville universitaire animée avec un beau centre médiéval, des places ensoleillées et une scène gastronomique méditerranéenne. Le Musée Fabre abrite l'une des plus belles collections d'art de France, et les plages de Palavas sont à quelques minutes en voiture.
+
+**Sète** - 1 heure du lieu<br>
+Surnommée la « Venise du Languedoc », Sète est une ville portuaire traversée de canaux. Montez sur le Mont Saint-Clair pour une vue panoramique sur la mer et l'étang, et dégustez des huîtres au bord du port.
+
+**Aigues-Mortes** - 1 heure du lieu<br>
+Une ville médiévale fortifiée parfaitement conservée, surgissant des marais de la Camargue. Faites le tour des remparts du XIIIe siècle et guettez les flamants roses dans les salins.
+
+**Arles** - 1h15 du lieu<br>
+Ruines romaines, Van Gogh et porte d'entrée de la Camargue. L'amphithéâtre est encore en activité aujourd'hui, et un parcours retrace les paysages peints par Van Gogh dans la ville.
+
+**Nîmes** - 45 minutes du lieu<br>
+Parmi les monuments romains les mieux conservés au monde : un amphithéâtre du Ier siècle et le temple de la Maison Carrée. À quelques minutes, le Pont du Gard est incontournable.
+
+**Avignon** - 1h15 du lieu<br>
+La ville des papes, perchée au-dessus du Rhône. Le Palais des Papes est extraordinaire, et en juillet la ville accueille l'un des plus grands festivals de théâtre d'Europe.
+
+**Béziers** - 1 heure du lieu<br>
+L'une des plus vieilles villes de France, perchée sur une colline au-dessus de l'Orb. Flânez sur les Allées Paul Riquet et explorez le Canal du Midi à pied, à vélo ou en bateau.
+
+**Carcassonne** - 2 heures du lieu<br>
+Une citadelle médiévale de conte de fées, idéale tôt le matin ou au crépuscule quand les remparts sont illuminés. Restez une nuit si possible — c'est magique après la tombée de la nuit.
+
+**Marseille** - 1h30 du lieu<br>
+La ville la plus ancienne et la plus charismatique de France. Ne manquez pas le Vieux-Port, la vue depuis Notre-Dame de la Garde, et les spectaculaires Calanques aux portes de la ville.
+
+**Perpignan** - 2 heures du lieu<br>
+Une ville à l'âme catalane, aux portes de l'Espagne. Le Palais des Rois de Majorque domine la skyline, et la vieille ville dégage une chaleur et une énergie uniques.
+
+</div>
+
+<div class="it" markdown="1">
+
+#### Esplorare la Regione
+
+La location si trova nel cuore del Languedoc — antico, tranquillo e ricco di cose da scoprire. Che abbiate un giorno o una settimana, ecco alcuni posti da esplorare prima o dopo i festeggiamenti.
+
+**Pic Saint-Loup** - 20 minuti dalla location<br>
+Proprio dietro l'angolo. Questa iconica vetta calcarea domina la gariga, con sentieri escursionistici, cappelle nascoste e alcune delle migliori tenute vinicole della regione.
+
+**Montpellier** - 35 minuti dalla location<br>
+Una vivace città universitaria con un bellissimo centro medievale, piazze soleggiate e un'ottima scena gastronomica mediterranea. Il Museo Fabre ospita una delle migliori collezioni d'arte di Francia, e le spiagge di Palavas sono a pochi minuti in auto.
+
+**Sète** - 1 ora dalla location<br>
+Conosciuta come la "Venezia del Languedoc", Sète è una città portuale percorsa da canali e piena di carattere. Salite sul Mont Saint-Clair per una vista panoramica sul mare e sulla laguna, e mangiate ostriche in riva al porto.
+
+**Aigues-Mortes** - 1 ora dalla location<br>
+Una città medievale murata perfettamente conservata che sorge dalle paludi della Camargue. Percorrete le mura del XIII secolo e cercate i fenicotteri nelle saline vicine.
+
+**Arles** - 1h15 dalla location<br>
+Rovine romane, Van Gogh e porta d'ingresso alla Camargue. L'anfiteatro è ancora in uso oggi, e un percorso attraverso la città ripercorre i paesaggi dipinti da Van Gogh.
+
+**Nîmes** - 45 minuti dalla location<br>
+Sede di alcuni dei monumenti romani meglio conservati al mondo, tra cui un anfiteatro del I secolo e il tempio della Maison Carrée. A pochi minuti, il Pont du Gard è imperdibile.
+
+**Avignon** - 1h15 dalla location<br>
+La città dei papi, arroccata sopra il Rodano. Il Palazzo dei Papi è straordinario, e in luglio la città ospita uno dei più grandi festival teatrali d'Europa.
+
+**Béziers** - 1 ora dalla location<br>
+Una delle città più antiche di Francia, drammaticamente situata su una collina sopra il fiume Orb. Passeggiate lungo le Allées Paul Riquet ed esplorate il Canal du Midi a piedi, in bici o in barca.
+
+**Carcassonne** - 2 ore dalla location<br>
+Una cittadella medievale da fiaba, da visitare al mattino presto o al tramonto quando le mura sono illuminate. Fermatevi una notte se potete — è magica dopo il tramonto.
+
+**Marsiglia** - 1h30 dalla location<br>
+La città più antica e carismatica di Francia — vivace e unica. Da non perdere il Vieux-Port, la vista da Notre-Dame de la Garde e le spettacolari Calanques appena fuori città.
+
+**Perpignan** - 2 ore dalla location<br>
+Una città dall'anima catalana, proprio al confine con la Spagna. Il Palazzo dei Re di Maiorca domina lo skyline, e il centro storico ha un calore e un'energia inconfondibili.
+
+</div>

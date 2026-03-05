@@ -16,14 +16,22 @@ gate_keeper: "bienvenue"
 
 navigation_header:
   - title: Home
-    title_tr: Ana Sayfa
+    title_tr: Ana 
+    title_fr: Accueil
+    title_it: Home
     url: /
   - title: Access
-    title_tr: Nasıl Gidilir?
+    title_tr: Nasıl ?
+    title_fr: Accès
+    title_it: Accesso
     url: /access/
   - title: FAQ
     title_tr: SSS
     url: /faq/
+    title_fr: FAQ
+    title_it: FAQ
   - title: Explore
     title_tr: Keşfet
+    title_fr: Explorer
+    title_it: Scoprire
     url: /explore/

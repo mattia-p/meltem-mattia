@@ -10,9 +10,26 @@ body, .header, .main, .footer, .page {
 }
 
 // Language toggle visibility
-.lang-tr .en { display: none; }
-.lang-en .tr { display: none; }
+.lang-en .tr, .lang-en .fr, .lang-en .it { display: none; }
+.lang-tr .en, .lang-tr .fr, .lang-tr .it { display: none; }
+.lang-fr .en, .lang-fr .tr, .lang-fr .it { display: none; }
+.lang-it .en, .lang-it .tr, .lang-it .fr { display: none; }
 
+// Nav spans: hide all, show only active language
+.nav--header a {
+  position: relative;
+}
+.nav--header a span {
+  visibility: hidden;
+  position: absolute;
+}
+.lang-en .nav--header a span.en,
+.lang-tr .nav--header a span.tr,
+.lang-fr .nav--header a span.fr,
+.lang-it .nav--header a span.it {
+  visibility: visible;
+  position: static;
+}
 // Language toggle button style
 .lang-btn {
   background: none;
@@ -98,9 +115,15 @@ main a:hover {
     margin: 0;
     padding: 0;
     list-style: none;
+    flex: 1;
+  }
+  .nav--header .list--nav .item--nav {
+    min-width: 5rem;
+    text-align: center;
   }
   .language-toggle {
     margin-left: auto;
+    flex-shrink: 0;
   }
   #mobile-menu-button {
     display: none; /* Hide hamburger on desktop */
@@ -137,9 +160,6 @@ main a:hover {
   #mobile-menu-button {
     order: 1;
   }
-  /* Hide the other language */
-  .lang-tr .en { display: none; }
-  .lang-en .tr { display: none; }
 }
 
 #mobile-menu-button {
