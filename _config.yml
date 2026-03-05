@@ -11,6 +11,9 @@ navigation_footer: []
 author:
   name: Meltem & Mattia
 
+gate_protected: true
+gate_keeper: "bienvenue"
+
 navigation_header:
   - title: Home
     title_tr: Ana Sayfa

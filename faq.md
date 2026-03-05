@@ -4,7 +4,7 @@ layout: page
 lang: en
 lang_url: /tr/
 permalink: /faq/
-feature_image: /assets/images/banner_crop.jpg
+feature_image: /assets/images/banner_3.jpeg
 ---
 
 <div class="en" markdown="1">

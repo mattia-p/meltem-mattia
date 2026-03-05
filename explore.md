@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: /assets/images/banner_crop.jpg
+feature_image: /assets/images/banner_3.jpeg
 permalink: /explore/
 ---
 
