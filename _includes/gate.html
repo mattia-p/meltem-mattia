@@ -22,14 +22,19 @@
   }
 
   function checkPassword() {
-    const input = document.getElementById("pw-input").value;
-    if (input === CORRECT_PASSWORD) {
-      sessionStorage.setItem("unlocked", "true");
-      gate.style.display = "none";
-    } else {
-      document.getElementById("pw-error").style.display = "block";
-    }
+  const input = document.getElementById("pw-input").value;
+
+  const ok =
+    input === CORRECT_PASSWORD ||                       
+    input.toLowerCase() === CORRECT_PASSWORD.toLowerCase();
+
+  if (ok) {
+    sessionStorage.setItem("unlocked", "true");
+    gate.style.display = "none";
+  } else {
+    document.getElementById("pw-error").style.display = "block";
   }
+}
 
   document.getElementById("pw-input").addEventListener("keydown", function(e) {
     if (e.key === "Enter") checkPassword();
