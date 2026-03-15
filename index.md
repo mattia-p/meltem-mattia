@@ -33,7 +33,7 @@ Lütfen 1 Temmuz 2026'ya kadar [bu bağlantı](https://forms.gle/GBHfFXGCckNBjik
 ### Venez célébrer avec nous ! 
 Rejoignez-nous le weekend du 3 octobre 2026. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, France <br> <br>
-Merci de nous confirmer votre présence avant le 1er juillet 2026 via [ce lien](https://forms.gle/rEgnBPv56SfNwg5n9).<br>
+Merci de nous confirmer votre présence avant le 1er juillet 2026 via [ce lien](https://forms.gle/1DtMzqRTjqqVW8wv8).<br>
 
 </div>
 
@@ -42,6 +42,6 @@ Merci de nous confirmer votre présence avant le 1er juillet 2026 via [ce lien](
 ### Venite a festeggiare con noi!
 Unitevi a noi nel weekend del 3 ottobre 2026. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, Francia <br> <br>
-Vi chiediamo di confermare la vostra presenza entro il 1° luglio 2026 tramite [questo link](https://forms.gle/rEgnBPv56SfNwg5n9).<br>
+Vi chiediamo di confermare la vostra presenza entro il 1° luglio 2026 tramite [questo link](https://forms.gle/sv8amN2GXKviy6hU6).<br>
 
 </div>
