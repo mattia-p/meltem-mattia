@@ -20,6 +20,14 @@ navigation_header:
     title_fr: Accueil
     title_it: Home
     url: /
+  - title: RSVP
+    title_tr: RSVP
+    title_fr: RSVP
+    title_it: RSVP
+    url: https://forms.gle/rEgnBPv56SfNwg5n9
+    url_tr: https://forms.gle/GBHfFXGCckNBjikh7
+    url_fr: https://forms.gle/1DtMzqRTjqqVW8wv8
+    url_it: https://forms.gle/sv8amN2GXKviy6hU6
   - title: Access
     title_tr: Nasıl ?
     title_fr: Accès

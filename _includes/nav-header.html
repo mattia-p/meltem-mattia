@@ -11,9 +11,21 @@
   <!-- Navigation List -->
   <ul class="list list--nav" id="mobile-nav-list">
     {% for item in site.navigation_header %}
-      {% assign url = item.url contains '://' ? item.url : item.url | relative_url %}
+      {% if item.url contains '://' %}
+        {% assign url = item.url %}
+        {% assign external = true %}
+      {% else %}
+        {% assign url = item.url | relative_url %}
+        {% assign external = false %}
+      {% endif %}
       <li class="item item--nav{% if item.url == page.url %} item--current{% endif %}">
-        <a href="{{ url }}">
+        <a href="{{ url }}"
+          {% if external %}target="_blank" rel="noopener noreferrer" class="nav-external-lang"
+            data-href-en="{{ item.url }}"
+            data-href-tr="{{ item.url_tr | default: item.url }}"
+            data-href-fr="{{ item.url_fr | default: item.url }}"
+            data-href-it="{{ item.url_it | default: item.url }}"
+          {% endif %}>
           <span class="en">{{ item.title }}</span>
           <span class="tr">{{ item.title_tr | default: item.title }}</span>
           <span class="fr">{{ item.title_fr | default: item.title }}</span>
@@ -34,12 +46,20 @@
   </div>
 </nav>
 <script>
+function updateExternalNavLinks(lang) {
+  document.querySelectorAll('a.nav-external-lang').forEach(function(a) {
+    var href = a.getAttribute('data-href-' + lang) || a.getAttribute('data-href-en');
+    if (href) a.href = href;
+  });
+}
+
 // Language toggle
 function setLang(lang) {
   const langs = ['en', 'tr', 'fr', 'it'];
   langs.forEach(l => document.body.classList.remove('lang-' + l));
   document.body.classList.add('lang-' + lang);
   localStorage.setItem('lang', lang);
+  updateExternalNavLinks(lang);
 }
 // Restore language on load
 (function() {
@@ -47,6 +67,7 @@ function setLang(lang) {
   const langs = ['en', 'tr', 'fr', 'it'];
   langs.forEach(l => document.body.classList.remove('lang-' + l));
   document.body.classList.add('lang-' + saved);
+  updateExternalNavLinks(saved);
 })();
 // Mobile menu toggle
 document.addEventListener('DOMContentLoaded', function() {
