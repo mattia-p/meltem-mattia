@@ -6,9 +6,9 @@ permalink: /explore/
 
 <div class="en" markdown="1">
 
-#### Explore the Region
+### Explore the area
 
-The venue sits in the heart of the Languedoc — ancient, unhurried, and full of things to discover. Whether you have a day or a week, here are some places worth exploring before or after the celebration.
+The venue sits in the heart of the Languedoc: ancient, unhurried, and full of things to discover. Whether you have a day or a week, here are some places worth exploring before or after the celebration.
 
 **Pic Saint-Loup** - 20 minutes from the venue<br>
 Right on your doorstep. The iconic limestone peak towers over the garrigue countryside, with hiking trails, hidden chapels, and some of the finest wine estates in the region within easy reach.

@@ -179,3 +179,65 @@ main a:hover {
   height: 1.5rem;
   display: block;
 }
+
+// FAQ accordion (<details> / <summary>)
+.faq-page .faq-list {
+  margin-top: 1rem;
+}
+
+.faq-item {
+  border-bottom: 1px solid rgba(139, 111, 71, 0.25);
+  padding: 0.35rem 0;
+}
+
+.faq-item summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #161514;
+  list-style: none;
+  padding: 0.6rem 1.75rem 0.6rem 0;
+  position: relative;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 0.25rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #8b6f47;
+  line-height: 1;
+}
+
+.faq-item[open] summary::after {
+  content: "−";
+}
+
+.faq-item summary:hover {
+  color: #5c4a2a;
+}
+
+.faq-answer {
+  padding: 0 0 1rem 0;
+  color: #384743;
+}
+
+.faq-answer p:last-child {
+  margin-bottom: 0;
+}
+
+.faq-answer ul {
+  padding-left: 1.5rem;
+  margin-left: 0;
+}
+
+.faq-answer li {
+  margin-left: 0;
+  padding-left: 0.25rem;
+}
