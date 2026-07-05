@@ -6,12 +6,28 @@ permalink: /explore/
 
 <div class="en" markdown="1">
 
-### Explore the area
+<h3 class="explore-title">Explore the area</h3>
+
+<p class="explore-subtitle">Nearby villages and nature</p>
 
 The venue sits in the heart of the Languedoc: ancient, unhurried, and full of things to discover. Whether you have a day or a week, here are some places worth exploring before or after the celebration.
 
 **Pic Saint-Loup** - 20 minutes from the venue<br>
 Right on your doorstep. The iconic limestone peak towers over the garrigue countryside, with hiking trails, hidden chapels, and some of the finest wine estates in the region within easy reach.
+
+**Saint-Martin-de-Londres** - 15 minutes from the venue<br>
+One of the most picturesque villages beneath Pic Saint-Loup. Built around a remarkably well-preserved medieval centre, Saint-Martin-de-Londres is a lovely place for a leisurely stroll, a coffee on the square, and a glimpse of rural Languedoc life framed by dramatic limestone peaks.
+
+**Saint-Guilhem-le-Désert** - 40 minutes from the venue<br>
+One of France's most beautiful villages, nestled in a dramatic limestone valley. Wander its medieval lanes, visit the UNESCO-listed abbey, and follow the river through the spectacular Gorges de l'Hérault.
+
+**Les Matelles** - 20 minutes from the venue<br>
+A beautifully preserved medieval village of narrow stone lanes and vaulted passageways. Tucked into the foothills of Pic Saint-Loup, Les Matelles feels almost unchanged by time and makes for a peaceful stop before exploring the surrounding countryside.
+
+**Viols-le-Fort** - 25 minutes from the venue<br>
+A fortified hilltop village surrounded by wild garrigue landscapes. Quiet and authentic, it is an excellent base for walks among ancient stone walls, with several prehistoric sites and sweeping views of the rugged countryside nearby.
+
+<p class="explore-subtitle">Further afield</p>
 
 **Montpellier** - 35 minutes from the venue <br>
 A lively university city with a beautiful medieval old town, sun-drenched squares, and a proud Mediterranean food scene. The Musée Fabre holds one of France's finest art collections, and the beaches at Palavas are just a short drive away.
@@ -48,12 +64,30 @@ A city with a strong Catalan soul, right on the Spanish border. The Palace of th
 
 <div class="tr" markdown="1">
 
-#### Bölgeyi Keşfedin
+<h3 class="explore-title">Bölgeyi Keşfedin</h3>
+
+<p class="explore-subtitle">Yakındaki köyler ve doğa</p>
 
 Mekân, Languedoc bölgesinde yer alıyor. Eğer vaktiniz varsa, kutlama öncesinde ya da sonrasında çevrede gezebileceğiniz bazı yerleri aşağıda bulabilirsiniz.
 
 **Pic Saint-Loup** - Mekâna 20 dakika<br>
 Mekâna çok yakın. Bölgenin simgesi olan bu kireçtaşı tepesine yürüyüş yapabilir, çevredeki patikaları keşfedebilir ya da yakınlardaki bağları ziyaret edebilirsiniz.
+
+**Saint-Martin-de-Londres** - Mekana 15 dakika<br>
+Pic Saint-Loup'un eteklerindeki en pitoresk köylerden biri. Oldukça iyi korunmuş bir ortaçağ merkezinin etrafında kurulmuş olan Saint-Martin-de-Londres, keyifli bir yürüyüş, meydanda bir kahve molası ve dramatik kalker tepelerin çerçevelediği kırsal Languedoc yaşamına bir bakış için güzel bir yerdir.
+
+**Saint-Guilhem-le-Désert** - Mekana 40 dakika<br>
+Fransa'nın en güzel köylerinden biri, etkileyici bir kalker vadisine yerleşmiş durumda. Ortaçağ sokaklarında dolaşın, UNESCO listesindeki manastırı ziyaret edin ve nehri takip ederek muhteşem Hérault Boğazı'ndan geçin.
+
+**Les Matelles** - Mekana 20 dakika<br>
+Dar taş sokakları ve kemerli geçitleriyle güzelce korunmuş bir ortaçağ köyü. Pic Saint-Loup'un eteklerine sıkışmış olan Les Matelles, zamanın neredeyse dokunmadığı bir yer gibi hissettirir ve çevredeki kırsalı keşfetmeden önce huzurlu bir mola noktasıdır.
+
+**Viols-le-Fort** - Mekana 25 dakika<br>
+Vahşi garig manzaralarıyla çevrili, tepe üzerinde kurulmuş surlu bir köy. Sakin ve otantik olan bu köy, antik taş duvarlar arasında yürüyüşler için mükemmel bir üs olup, yakınlarda birkaç tarih öncesi alan ve engebeli kırsalın geniş manzaraları bulunmaktadır.
+
+
+<p class="explore-subtitle">Biraz daha uzakta</p>
+
 
 **Montpellier** - Mekâna 35 dakika <br>
 Canlı bir üniversite şehri. Dar sokaklı eski şehir bölgesi, geniş meydanları ve iyi restoranlarıyla keyifli bir gün geçirmek için ideal. Plajlar da kısa bir sürüş mesafesinde.
@@ -89,12 +123,28 @@ Fransa’nın en eski şehirlerinden biri. Vieux-Port ve Notre-Dame de la Garde 
 
 <div class="fr" markdown="1">
 
-#### Explorer la Région
+<h3 class="explore-title">Explorer la région</h3>
+
+<p class="explore-subtitle">Villages et nature à proximité</p>
 
 Le lieu est situé au cœur du Languedoc — ancien, paisible et plein de découvertes. Que vous ayez une journée ou une semaine, voici quelques endroits à explorer avant ou après la fête.
 
-**Pic Saint-Loup** - 20 minutes du lieu<br>
+**Pic Saint-Loup** - 20 minutes du lieu de réception<br>
 Juste à votre porte. Ce pic calcaire emblématique domine la garrigue, avec des sentiers de randonnée, des chapelles cachées et quelques-uns des meilleurs domaines viticoles de la région.
+
+**Saint-Martin-de-Londres** - à 15 minutes du lieu de réception<br>
+L'un des villages les plus pittoresques au pied du Pic Saint-Loup. Bâti autour d'un centre médiéval remarquablement préservé, Saint-Martin-de-Londres est un lieu charmant pour une promenade tranquille, un café sur la place, et un aperçu de la vie rurale languedocienne encadrée par des pics calcaires spectaculaires.
+
+**Saint-Guilhem-le-Désert** - à 40 minutes du lieu de réception<br>
+L'un des plus beaux villages de France, niché dans une vallée calcaire spectaculaire. Flânez dans ses ruelles médiévales, visitez l'abbaye classée à l'UNESCO, et suivez la rivière à travers les magnifiques Gorges de l'Hérault.
+
+**Les Matelles** - à 20 minutes du lieu de réception<br>
+Un village médiéval magnifiquement préservé, fait de ruelles étroites en pierre et de passages voûtés. Niché dans les contreforts du Pic Saint-Loup, Les Matelles semble presque figé dans le temps et constitue une halte paisible avant d'explorer la campagne environnante.
+
+**Viols-le-Fort** - à 25 minutes du lieu de réception<br>
+Un village fortifié perché, entouré de paysages sauvages de garrigue. Calme et authentique, c'est un excellent point de départ pour des promenades parmi d'anciens murs de pierre, avec plusieurs sites préhistoriques et de vastes panoramas sur la campagne escarpée à proximité.
+
+<p class="explore-subtitle">Un peu plus loin</p>
 
 **Montpellier** - 35 minutes du lieu<br>
 Une ville universitaire animée avec un beau centre médiéval, des places ensoleillées et une scène gastronomique méditerranéenne. Le Musée Fabre abrite l'une des plus belles collections d'art de France, et les plages de Palavas sont à quelques minutes en voiture.
@@ -130,12 +180,28 @@ Une ville à l'âme catalane, aux portes de l'Espagne. Le Palais des Rois de Maj
 
 <div class="it" markdown="1">
 
-#### Esplorare la Regione
+<h3 class="explore-title">Esplora la zona</h3>
 
-La location si trova nel cuore del Languedoc — antico, tranquillo e ricco di cose da scoprire. Che abbiate un giorno o una settimana, ecco alcuni posti da esplorare prima o dopo i festeggiamenti.
+<p class="explore-subtitle">Villaggi e natura nei dintorni</p>
 
-**Pic Saint-Loup** - 20 minuti dalla location<br>
+Il luogo si trova nel cuore del Languedoc — antico, tranquillo e ricco di cose da scoprire. Che abbiate un giorno o una settimana, ecco alcuni posti da esplorare prima o dopo i festeggiamenti.
+
+**Pic Saint-Loup** - 20 minuti dal luogo<br>
 Proprio dietro l'angolo. Questa iconica vetta calcarea domina la gariga, con sentieri escursionistici, cappelle nascoste e alcune delle migliori tenute vinicole della regione.
+
+**Saint-Martin-de-Londres** - a 15 minuti dal luogo<br>
+Uno dei villaggi più pittoreschi ai piedi del Pic Saint-Loup. Costruito attorno a un centro medievale straordinariamente ben conservato, Saint-Martin-de-Londres è un luogo delizioso per una passeggiata tranquilla, un caffè in piazza e uno scorcio della vita rurale della Linguadoca incorniciata da spettacolari picchi calcarei.
+
+**Saint-Guilhem-le-Désert** - a 40 minuti dal luogo<br>
+Uno dei villaggi più belli di Francia, immerso in una spettacolare valle calcarea. Passeggiate tra i suoi vicoli medievali, visitate l'abbazia patrimonio UNESCO e seguite il fiume attraverso le magnifiche Gorges de l'Hérault.
+
+**Les Matelles** - a 20 minuti dal luogo<br>
+Un villaggio medievale splendidamente conservato, fatto di stretti vicoli di pietra e passaggi voltati. Incastonato tra le colline ai piedi del Pic Saint-Loup, Les Matelles sembra quasi immutato dal tempo e rappresenta una sosta tranquilla prima di esplorare la campagna circostante.
+
+**Viols-le-Fort** - a 25 minuti dal luogo<br>
+Un villaggio fortificato in cima a una collina, circondato da paesaggi selvaggi di garriga. Tranquillo e autentico, è un'ottima base per passeggiate tra antiche mura di pietra, con diversi siti preistorici e ampie vedute della campagna aspra nelle vicinanze.
+
+<p class="explore-subtitle">Un po' più lontano</p>
 
 **Montpellier** - 35 minuti dalla location<br>
 Una vivace città universitaria con un bellissimo centro medievale, piazze soleggiate e un'ottima scena gastronomica mediterranea. Il Museo Fabre ospita una delle migliori collezioni d'arte di Francia, e le spiagge di Palavas sono a pochi minuti in auto.

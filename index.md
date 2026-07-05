@@ -14,7 +14,9 @@ feature_text: "# Meltem & Mattia"
 
 Join us the weekend of October 3rd, 2026. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, France <br> <br>
-Please let us know you're coming by July 1st, 2026 via [this link](https://forms.gle/rEgnBPv56SfNwg5n9).<br>
+Please let us know you're coming by August 1st, 2026 via [this link](https://forms.gle/rEgnBPv56SfNwg5n9).<br>
+
+For more information on visas from Turkey, see [here](/assets/Vize_yardim.pdf).
 
 </div>
 
@@ -25,7 +27,9 @@ Please let us know you're coming by July 1st, 2026 via [this link](https://forms
 
 3 Ekim 2026 hafta sonunda bizimle birlikte olmanızı dileriz. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, Fransa <br> <br>
-Lütfen 1 Temmuz 2026'ya kadar [bu bağlantı](https://forms.gle/GBHfFXGCckNBjikh7) üzerinden bize haber veriniz.
+Lütfen 1 Ağustos 2026'ya kadar [bu bağlantı](https://forms.gle/GBHfFXGCckNBjikh7) üzerinden bize haber veriniz.
+
+Türkiye'den vize hakkında daha fazla bilgi için [buraya](/assets/Vize_yardim.pdf) bakabilirsiniz.
 
 </div>
 
@@ -33,7 +37,7 @@ Lütfen 1 Temmuz 2026'ya kadar [bu bağlantı](https://forms.gle/GBHfFXGCckNBjik
 ### Venez célébrer avec nous ! 
 Rejoignez-nous le weekend du 3 octobre 2026. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, France <br> <br>
-Merci de nous confirmer votre présence avant le 1er juillet 2026 via [ce lien](https://forms.gle/1DtMzqRTjqqVW8wv8).<br>
+Merci de nous confirmer votre présence avant le 1er Aout 2026 via [ce lien](https://forms.gle/1DtMzqRTjqqVW8wv8).<br>
 
 </div>
 
@@ -42,6 +46,6 @@ Merci de nous confirmer votre présence avant le 1er juillet 2026 via [ce lien](
 ### Venite a festeggiare con noi!
 Unitevi a noi nel weekend del 3 ottobre 2026. <br>
 Domaines des Rives Le Suquet, 34270 Sauteyrargues, Francia <br> <br>
-Vi chiediamo di confermare la vostra presenza entro il 1° luglio 2026 tramite [questo link](https://forms.gle/sv8amN2GXKviy6hU6).<br>
+Vi chiediamo di confermare la vostra presenza entro il 1° agosto 2026 tramite [questo link](https://forms.gle/sv8amN2GXKviy6hU6).<br>
 
 </div>
