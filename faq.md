@@ -69,6 +69,18 @@ If you would prefer not to drive, or would like to share a ride with other guest
 </details>
 
 <details class="faq-item">
+<summary>Can I order a taxi?</summary>
+<div class="faq-answer" markdown="1">
+From the airport or train station, you should be able to find a taxi there.
+
+Once you're in the countryside, you can call one of these two drivers we've already spoken with:
+
+1. Based in Claret — **Yann**: 06 72 36 72 91
+2. Based in Saint-Mathieu-de-Tréviers — **Rémi Demars**: 06 34 63 41 76
+</div>
+</details>
+
+<details class="faq-item">
 <summary>What is the weather like?</summary>
 <div class="faq-answer" markdown="1">
 Early October in the South of France can be hard to predict. It may still feel like summer, or it could be cooler with some rain.
@@ -171,6 +183,18 @@ Eğer araç kullanmayı tercih etmiyorsanız ya da diğer misafirlerle birlikte 
 </details>
 
 <details class="faq-item">
+<summary>Taksi çağırabilir miyim?</summary>
+<div class="faq-answer" markdown="1">
+Havaalanından veya tren istasyonundan taksi bulabilirsiniz.
+
+Kırsal bölgede olduğunuzda, daha önce konuştuğumuz şu iki sürücüden birini arayabilirsiniz:
+
+1. Claret merkezli — **Yann**: 06 72 36 72 91
+2. Saint-Mathieu-de-Tréviers merkezli — **Rémi Demars**: 06 34 63 41 76
+</div>
+</details>
+
+<details class="faq-item">
 <summary>Ekim başında hava nasıl olur?</summary>
 <div class="faq-answer" markdown="1">
 Güney Fransa'da Ekim başındaki hava tahmin etmesi güç olabilir. Yaz gibi sıcak olabileceği gibi serin ve yağmurlu da geçebilir.
@@ -259,6 +283,18 @@ Et pour notre famille et nos amis turcs, nous garderons le takı töreni, une tr
 <div class="faq-answer" markdown="1">
 Nous recommandons d'avoir accès à une voiture pour rejoindre le domaine et vous déplacer dans la région le samedi matin et pendant la journée.
 Si vous préférez ne pas conduire ou souhaitez partager un trajet avec d'autres invités, faites-le nous savoir. Nous ferons de notre mieux pour vous mettre en contact avec d'autres personnes ou vous aider à organiser le transport depuis votre hébergement ou votre point d'arrivée.
+</div>
+</details>
+
+<details class="faq-item">
+<summary>Puis-je commander un taxi ?</summary>
+<div class="faq-answer" markdown="1">
+À l'aéroport ou à la gare, vous pourrez facilement en trouver un sur place.
+
+Une fois à la campagne, vous pouvez appeler l'un de ces deux chauffeurs avec lesquels nous avons déjà échangé :
+
+1. Basé à Claret — **Yann** : 06 72 36 72 91
+2. Basé à Saint-Mathieu-de-Tréviers — **Rémi Demars** : 06 34 63 41 76
 </div>
 </details>
 
@@ -355,6 +391,18 @@ E per la nostra famiglia e i nostri amici turchi, manterremo il takı töreni, l
 <div class="faq-answer" markdown="1">
 Consigliamo di avere accesso a un'auto per raggiungere la location e spostarsi nella zona sabato mattina e durante la giornata.
 Se preferisci non guidare o vorresti condividere un passaggio con altri ospiti, faccelo sapere. Faremo del nostro meglio per metterti in contatto con altri o per aiutarti a organizzare il trasporto dal tuo alloggio o punto di arrivo.
+</div>
+</details>
+
+<details class="faq-item">
+<summary>Posso chiamare un taxi?</summary>
+<div class="faq-answer" markdown="1">
+All'aeroporto o alla stazione dei treni dovreste riuscire a trovarne uno sul posto.
+
+Una volta in campagna, potete chiamare uno di questi due autisti con cui abbiamo già parlato:
+
+1. Basato a Claret — **Yann**: 06 72 36 72 91
+2. Basato a Saint-Mathieu-de-Tréviers — **Rémi Demars**: 06 34 63 41 76
 </div>
 </details>
 
