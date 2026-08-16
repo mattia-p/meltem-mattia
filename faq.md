@@ -40,6 +40,19 @@ More information can be found in the Access section.
 </details>
 
 <details class="faq-item">
+<summary>Can we bring you something?</summary>
+<div class="faq-answer" markdown="1">
+Your presence is truly the only gift we need. Getting everyone into one place is already more than we could ask for.
+
+That said, we know some of you will want to do something anyway. Nothing bulky, please. We're flying home with whatever we leave with.
+
+There will be a small box at the venue for cards and contributions. If you'd rather handle it online, here's the [link](https://tribee.fr/participations/meltem-mattia). A portion of whatever comes in will go to a nonprofit that matters to both of us.
+
+And for our Turkish family and friends, we'll be keeping the takı töreni, a Turkish tradition where guests pin gold coins on the bride and groom.
+</div>
+</details>
+
+<details class="faq-item">
 <summary>What time should we arrive?</summary>
 <div class="faq-answer" markdown="1">
 If you're joining us on Friday, feel free to arrive anytime during the afternoon.
@@ -122,19 +135,25 @@ Sauteyrargues çevresinde kalınabilecek çok güzel yerler var. Erken rezervasy
 </details>
 
 <details class="faq-item">
-<summary>Düğüne katılmak için vizeye ihtiyacım var mı?</summary>
-<div class="faq-answer" markdown="1">
-Milliyetinize ve ikamet ettiğiniz ülkeye bağlı olarak Fransa'ya giriş için vize gerekebilir. Bizimle iletişime geçmekten çekinmeyin — vize başvurunuzu desteklemek amacıyla kullanabileceğiniz resmi bir davet mektubu hazırlamaktan memnuniyet duyarız.
-</div>
-</details>
-
-<details class="faq-item">
 <summary>Mekâna nasıl ulaşabiliriz?</summary>
 <div class="faq-answer" markdown="1">
 Tüm bilgilere Ulaşım bölümünden ulaşabilirsiniz.
 </div>
-
 </details>
+
+<details class="faq-item">
+<summary>Size bir hediye getirebilir miyiz?</summary>
+<div class="faq-answer" markdown="1">
+Varlığınız bizim için tek gerçek hediye. Herkesi aynı yerde bir araya getirebilmek bile hayal ettiğimizden fazlası.
+
+Yine de bir şeyler yapmak isteyenler olacaktır, biliyoruz. Çok yer kaplayan bir şey olmasın lütfen; dönerken her şeyi uçakla götürmek zorundayız.
+
+Mekânda kartlar ve katkılar için küçük bir kutu olacak. Online yapmayı tercih ederseniz, [bağlantı burada](https://tribee.fr/participations/meltem-mattia). Toplananın bir kısmı ikimizin de gönülden desteklediği bir derneğe gidecek.
+
+Takı töreni de elbette olacak.
+</div>
+</details>
+
 <details class="faq-item">
 <summary>Ne zaman varmamız gerekiyor?</summary>
 <div class="faq-answer" markdown="1">
@@ -223,6 +242,19 @@ Le samedi, nous vous encourageons à profiter de la matinée et du début d'apr�
 </details>
 
 <details class="faq-item">
+<summary>Peut-on vous offrir quelque chose ?</summary>
+<div class="faq-answer" markdown="1">
+Votre présence est vraiment le seul cadeau dont nous avons besoin. Réunir tout le monde au même endroit, c'est déjà bien plus que ce que nous pouvions espérer.
+
+Cela dit, nous savons que certains d'entre vous voudront faire quelque chose malgré tout. Rien de trop encombrant, si possible : nous rentrons en avion, et tout devra tenir dans nos valises.
+
+Il y aura une petite urne sur place pour les cartes et les participations. Si vous préférez le faire en ligne, voici le [lien](https://tribee.fr/participations/meltem-mattia). Une partie de ce qui sera récolté ira à une association qui nous tient à cœur.
+
+Et pour notre famille et nos amis turcs, nous garderons le takı töreni, une tradition turque où les invités épinglent des pièces d'or sur les mariés.
+</div>
+</details>
+
+<details class="faq-item">
 <summary>Faut-il louer une voiture ?</summary>
 <div class="faq-answer" markdown="1">
 Nous recommandons d'avoir accès à une voiture pour rejoindre le domaine et vous déplacer dans la région le samedi matin et pendant la journée.
@@ -302,6 +334,19 @@ Tutte le informazioni sono disponibili nella sezione Accesso.
 <div class="faq-answer" markdown="1">
 Se ci raggiungi venerdì, puoi arrivare in qualsiasi momento del pomeriggio.
 Sabato, ti incoraggiamo a goderti la mattina e il primo pomeriggio esplorando la regione o partecipando a un'attività locale. Ti consigliamo di essere pronto/a per le **16:00**.
+</div>
+</details>
+
+<details class="faq-item">
+<summary>Possiamo farvi un regalo?</summary>
+<div class="faq-answer" markdown="1">
+La vostra presenza è davvero l'unico regalo di cui abbiamo bisogno. Riuscire a riunire tutti nello stesso posto è già molto più di quanto potessimo chiedere.
+
+Detto questo, sappiamo che qualcuno di voi vorrà comunque fare qualcosa. Niente di ingombrante, per favore: torniamo a casa in aereo e tutto dovrà entrare in valigia.
+
+Ci sarà una piccola cassetta per i biglietti e le buste. Se preferite farlo online, ecco il [link](https://tribee.fr/participations/meltem-mattia). Una parte di quanto raccolto andrà a un'associazione a cui teniamo molto.
+
+E per la nostra famiglia e i nostri amici turchi, manterremo il takı töreni, la tradizione turca in cui gli invitati appuntano monete d'oro sugli sposi.
 </div>
 </details>
 
